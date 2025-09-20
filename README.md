@@ -1,1 +1,1 @@
-## A Collection of graphql objects, queris and mutations that mimics a bookstore sql db schemas.
+## A Collection of graphql objects, queris and mutations that mimics a bookstore sql db schema.
